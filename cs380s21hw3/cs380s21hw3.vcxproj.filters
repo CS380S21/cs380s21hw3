@@ -36,4 +36,18 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="diskio.dat">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="diskio_small.dat">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="init.dat">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="init_small.dat">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>

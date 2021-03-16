@@ -148,6 +148,12 @@
     <ClInclude Include="Heap.h" />
     <ClInclude Include="HNode.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="diskio.dat" />
+    <None Include="diskio_small.dat" />
+    <None Include="init.dat" />
+    <None Include="init_small.dat" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
